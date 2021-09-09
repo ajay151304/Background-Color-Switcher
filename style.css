@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 20px 100px;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.btn{
+    width: 20px;
+    height: 20px;
+    border: 2px solid red;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 2px;
+    cursor: pointer;
+    
+}
+#color-switcher{
+    text-align: right;
+}
+#AntiqueWhite{
+    background-color:#FAEBD7;
+}
+#CadetBlue{
+    background-color: #5F9EA0;
+}
+#LightSteelBlue{
+    background-color: #B0C4DE;
+}
+#SandyBrown{
+    background-color: #F4A460;
+}
